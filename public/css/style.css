@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.thumbnail img{
+    max-height: 200px;
+}
